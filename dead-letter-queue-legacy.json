@@ -1,0 +1,29 @@
+[ {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:50:50.912507",
+  "operationId" : "{operationId=ba7b23f2-d04b-4ec2-ad36-95f8b9d819e7, amount=45, customerId=d90a8d56-84c3-42b6-b1b5-e5675f692980}"
+}, {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:50:58.7945667",
+  "operationId" : "{operationId=4ff6bd6e-71f6-4b0b-bef5-85d15b08b3a0, amount=41, customerId=926dda64-0da0-48a8-9f93-7fed19cf493e}"
+}, {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:52:20.8204305",
+  "operationId" : "{operationId=ba7b23f2-d04b-4ec2-ad36-95f8b9d819e7, amount=45, customerId=d90a8d56-84c3-42b6-b1b5-e5675f692980}"
+}, {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:52:23.2052282",
+  "operationId" : "{operationId=ba7b23f2-d04b-4ec2-ad36-95f8b9d819e7, amount=45, customerId=d90a8d56-84c3-42b6-b1b5-e5675f692980}"
+}, {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:52:24.3924263",
+  "operationId" : "{operationId=ba7b23f2-d04b-4ec2-ad36-95f8b9d819e7, amount=45, customerId=d90a8d56-84c3-42b6-b1b5-e5675f692980}"
+}, {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:52:25.4178926",
+  "operationId" : "{operationId=ba7b23f2-d04b-4ec2-ad36-95f8b9d819e7, amount=45, customerId=d90a8d56-84c3-42b6-b1b5-e5675f692980}"
+}, {
+  "error" : "LEGACY_INTERNAL_ERROR",
+  "createdAt" : "2025-12-30T19:52:26.5701305",
+  "operationId" : "{operationId=ba7b23f2-d04b-4ec2-ad36-95f8b9d819e7, amount=45, customerId=d90a8d56-84c3-42b6-b1b5-e5675f692980}"
+} ]
